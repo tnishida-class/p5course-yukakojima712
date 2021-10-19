@@ -21,7 +21,6 @@ function setup() {
       noFill();
       rect(size*i,size*j,size,size);
     }
-      // BLANK[1] (hint: rectのx座標は size * i, y座標はsize * j)
     }
   }
 }
